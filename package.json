@@ -56,7 +56,6 @@
     "tslint-config-standard": "^7.1.0",
     "typescript": "^3.0.1"
   },
-  "dependencies": {},
   "peerDependencies": {
     "ts-loader": "*"
   }
